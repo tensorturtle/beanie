@@ -22,6 +22,8 @@ Beanie is a custom PCB designed to provide a variety of general purpose connecti
 + 1x Power Button (short the pins for power on/off) via JST 2.0mm 2-pin connector.
 + USB audio interface + powered 6W stereo speaker amp output with 12V power input.
 
+![](photos/beanie-v1.1-layout.png)
+
 ## Pricing
 
 19 USD per unit. Minimum order quantity is 5.
