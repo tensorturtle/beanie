@@ -9,7 +9,8 @@ Beanie is a custom PCB designed to provide a variety of general purpose connecti
 + **Embedded**: Low-profile, reliable connectors for enclosed use cases.
 + **Open Source**: This repository contains everything you need to modify Beanie to your specifications.
 
-+ ![](photos/beanie-v1-quarter.jpg)
+
+![](photos/beanie-v1-quarter.jpg)
 
 
 ## Capabilities
