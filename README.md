@@ -1,11 +1,16 @@
 # Beanie
 
+![](photos/beanie-v1-top.jpg)
+
 Beanie is a custom PCB designed to provide a variety of general purpose connection interfaces and capabilities to NVIDIA Jetson Nano or Xavier NX SoC coupled to [Leetop A203 Carrier Board](http://www.leetop.top/leetopen.asp?id=256).
 
 ## Design priorities
 + **Compactness**: Beanie's dimensions closely match that of the Leetop A203, which itself is not much bigger than the Jetson board. 
 + **Embedded**: Low-profile, reliable connectors for enclosed use cases.
 + **Open Source**: This repository contains everything you need to modify Beanie to your specifications.
+
++ ![](photos/beanie-v1-quarter.jpg)
+
 
 ## Capabilities
 
