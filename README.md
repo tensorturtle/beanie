@@ -71,6 +71,17 @@ At BOM selection, *unselect* J1 and J2. The 40-pin and 14-pin 2.54mm headers mus
 
 The PCB + Assembly price is around 90 to 95 USD, and shipping is typically between 10 to 30 USD.
 
+### Extra Components
+
+Beanie will need a few more parts to be fully integrated with Leetop A203:
+
++ 40 (2x20) and 14 (2x7) 2.54mm pin female headers. Solder them to the underside of the Beanie so that it interfaces with the male headers on the A203.
++ Short (20mm) 0.5mm pitch 20P ZIF flat cable, with the gold contacts on each end on different sides.
++ 4 set of:
+  + M3 10mm hex standoff spacer
+  + ~2.5mm additional spacer (or nut)
+  + M3 philips head bolt
+
 ## Modify Beanie
 
 In EasyEDA, create a new empty project.
